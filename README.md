@@ -24,6 +24,9 @@
   
 </ul>
 
+# Working Principle
+
+The Ultrasonic Senor checks for obstacles around the bot in left right & straight direction then it changes the direction of bot according to it
 
 # Code 
 
